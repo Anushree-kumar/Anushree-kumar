@@ -10,7 +10,6 @@
 
 ## 🌐 Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anushreek15) 
-[![Kaggle](https://user-images.githubusercontent.com/22222813/63228923-3be7df00-c1af-11e9-8faa-5bf2a6643acf.png)logo=kaggle&logoColour=white](https://www.kaggle.comcode/anushreek15/)
 
 
 
