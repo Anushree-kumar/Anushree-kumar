@@ -5,7 +5,7 @@
 
 
 ## 💫 About Me
-<br><br>💻 I'm an ambitious student pursuing  my bachelor's degree at KPR Institute of Engineering and Technology .<br>🔭 I'm currently working on Data science.<br>🌱 I'm addicted to learning and growing everyday.<br><br>
+<br>💻 I'm an ambitious student pursuing  my bachelor's degree at KPR Institute of Engineering and Technology .<br>🔭 I'm currently working on Data science.<br>🌱 I'm addicted to learning and growing everyday.<br><br>
 
 
 ## 🌐 Socials 
