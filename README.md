@@ -1,8 +1,5 @@
 # HI , I'm Anushree.K...👋
 
-
-
-
 <h3 align="left">About me:</h3>
 <br>💻 I'm an ambitious student pursuing  my bachelor's degree at KPR Institute of Engineering and Technology .<br>🔭 I'm currently working on Data science.<br>🌱 I'm addicted to learning and growing everyday.<br><br>
 
