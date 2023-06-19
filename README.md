@@ -1,28 +1,8 @@
 # HI , I'm Anushree.K...
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.center {
-  margin: auto;
-  width: 20%;
-  border: 3px solid Violet;
-  
-}
-</style>
-</head>
-<body>
-
-
-
 <div class="center">
-  <p>About me 🙋‍♀️:</p>
+## About me 🙋‍♀️:
 </div>
-
-</body>
-</html>
-
 <br>💻 I'm an ambitious student pursuing  my bachelor's degree at KPR Institute of Engineering and Technology .<br>🔭 I'm currently working on Data science.<br>🌱 I'm addicted to learning and growing everyday.<br><br>
 
 
